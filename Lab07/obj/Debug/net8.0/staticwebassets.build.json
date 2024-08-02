@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8eZdNqdrVkUcaXZEH/k/7hb0c+kENOYJ5fges21Dpgk=",
+  "Hash": "E84C1GG6852x39/GesVTVWPziA/+9RHzJPgxXW7O0iM=",
   "Source": "Lab07",
   "BasePath": "_content/Lab07",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Piemon\\source\\repos\\Lab07\\Lab07\\wwwroot\\Images\\Táo.jpg",
+      "SourceId": "Lab07",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Piemon\\source\\repos\\Lab07\\Lab07\\wwwroot\\",
+      "BasePath": "_content/Lab07",
+      "RelativePath": "Images/Táo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Táo.jpg"
     },
     {
       "Identity": "C:\\Users\\Piemon\\source\\repos\\Lab07\\Lab07\\wwwroot\\js\\site.js",

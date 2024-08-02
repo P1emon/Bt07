@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Lab07.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Piemon\\source\\repos\\Lab07\\Lab07\\wwwroot\\Images\\Táo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Táo.jpg"
+    },
+    {
       "Id": "C:\\Users\\Piemon\\source\\repos\\Lab07\\Lab07\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
