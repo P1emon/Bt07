@@ -251,3 +251,4 @@ C:\Users\Piemon\source\repos\Lab07\Lab07\bin\Debug\net8.0\runtimes\win\lib\net7.
 C:\Users\Piemon\source\repos\Lab07\Lab07\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Piemon\source\repos\Lab07\Lab07\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Piemon\source\repos\Lab07\Lab07\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Piemon\source\repos\Lab07\Lab07\obj\Debug\net8.0\Lab07.sourcelink.json

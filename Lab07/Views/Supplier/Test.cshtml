@@ -1,0 +1,13 @@
+﻿@model List<Lab07.Data.Supplier>
+
+<table>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Logo</td>
+            <td>@item.Email</td>
+            <td>@item.Phone</td>
+        </tr>
+    }
+</table>
